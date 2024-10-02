@@ -41,7 +41,7 @@ export default function Page() {
         <p>
           Outside of programming, I enjoy listening to music, which keeps me
           inspired, staying active through sports like jogging or working out,
-          and diving into <a href="#">books</a>, especially biographies and tutorial guides.
+          and diving into <a href="content\books.mdx">books</a>, especially biographies and tutorial guides.
           These hobbies help me maintain balance and fuel my creativity in
           everyday life.
         </p>
