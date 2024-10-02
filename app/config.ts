@@ -8,9 +8,9 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  cv: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
+  cv: "#",
+  github: "https://github.com/JibrilElAzouzi",
   instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/in/jibril-el-azouzi-3589a2262/",
-  email: "mailto:example@gmail.com",
+  email: "mailto:jibrilelazouzi@outlook.com",
 };
