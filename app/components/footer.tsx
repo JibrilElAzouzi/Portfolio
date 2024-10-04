@@ -22,14 +22,14 @@ function SocialLink({ href, name }) {
 function SocialLinks() {
   return (
     <div className="flex flex-col items-center text-lg gap-8 transition-opacity duration-300 hover:opacity-90 social-links sm:flex-row sm:justify-center sm:gap-4 mt-10">
-      <SocialLink href={socialLinks.cv} name="Cv" />
+      
       <SocialLink href={socialLinks.github} name="Github" />
       <SocialLink href={socialLinks.linkedin} name="LinkedIn" />
       <SocialLink href={socialLinks.email} name="Email" />
     </div>
   );
 }
-
+//<SocialLink href={socialLinks.cv} name="Cv" />
 export default function Footer() {
   return (
     <div className="footer-container flex flex-col items-center">
